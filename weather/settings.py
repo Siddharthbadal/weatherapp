@@ -26,7 +26,7 @@ SECRET_KEY = 'wdhh10%u+s+nwa*1^^7fv_-mz+3caj2fv!5z@=72^9f_l%#0+8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['siddweatherapp.herokuapp.com']
 
 
 # Application definition
